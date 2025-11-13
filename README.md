@@ -12,3 +12,48 @@
 📧 **[flaviogocalves678@gmail.com](mailto:flaviogocalves678@gmail.com)**  
 📞 **(12) 98864-9578**  
 💼 **[LinkedIn – Flávio Gonçalves](https://www.linkedin.com/in/flaviogoncalves7)**
+# 💡 Conhecimentos e Habilidades
+🧠 Linguagens de Programação
+- Python  
+- JavaScript  
+- TypeScript  
+- SQL  
+
+🧩 Linguagens de Marcação e Estilo
+- HTML  
+- CSS  
+
+⚙️ Frameworks e Bibliotecas
+- React  
+- Node.js  
+- Flask  
+- Bootstrap  
+
+🗄️ Banco de Dados
+- MySQL / MySQL Server  
+- MongoDB  
+
+🧰 Ferramentas
+- Git / GitHub  
+- Visual Studio Code  
+- Figma  
+- Jira  
+- Linux  
+- VirtualBox  
+
+🚀 Metodologias e Boas Práticas
+- Scrum (Metodologia Ágil)  
+- Boas práticas de programação e versionamento  
+- Desenvolvimento de aplicações responsivas (mobile + desktop)  
+
+🧩 Habilidades Técnicas
+- Desenvolvimento e otimização de algoritmos  
+- Documentação técnica de sistemas  
+- Aplicação de conceitos de IA / Machine Learning (projetos e protótipos)  
+- Resolução de problemas e pensamento analítico  
+
+🤝 Soft Skills
+- Trabalho em equipe e colaboração  
+- Adaptabilidade e resiliência  
+- Gestão de tempo e cumprimento de prazos  
+- Comprometimento com a cultura organizacional

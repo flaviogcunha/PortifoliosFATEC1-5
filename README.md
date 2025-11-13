@@ -11,4 +11,4 @@
 📍 **Caçapava - SP**  
 📧 **[flaviogocalves678@gmail.com](mailto:flaviogocalves678@gmail.com)**  
 📞 **(12) 98864-9578**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flávio%20Gonçalves-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/flaviogoncalves7)
+💼 **[LinkedIn – Flávio Gonçalves](https://www.linkedin.com/in/flaviogoncalves7)**

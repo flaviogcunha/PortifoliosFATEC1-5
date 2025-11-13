@@ -8,7 +8,7 @@
   Tenho grande interesse nas áreas de redes de computadores, segurança da informação e hacking, Busco constantemente aprimorar-me por meio de laboratórios práticos, cursos e certificações relevantes, e aplico esse conhecimento para desenvolver projetos cada vez melhores! Também tenho afinidade por análise de dados: tratamento, visualização e extração de insights para apoiar decisões.
 # 📸 Foto
 # ✉️ Contato
-  🚩 Caçapava - SP
-  📩 flaviogocalves678@gmail.com
-  📞 (12) 988649578
-  🔗 Linkedin: https://www.linkedin.com/in/flaviogoncalves7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📍 **Caçapava - SP**  
+📧 **[flaviogocalves678@gmail.com](mailto:flaviogocalves678@gmail.com)**  
+📞 **(12) 98864-9578**  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Flávio%20Gonçalves-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/flaviogoncalves7)

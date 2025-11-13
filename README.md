@@ -6,4 +6,4 @@
   Atualmente atuo como estagiário de suporte tecnico na B2BTI Automações Comerciais, onde tenho a oportunidade de demonstrar meus conhecimentos voltados a parte de redes de computadores , resolução de problemas e Tecnologia em geral.
 
   Tenho grande interesse nas áreas de redes de computadores, segurança da informação e hacking, Busco constantemente aprimorar-me por meio de laboratórios práticos, cursos e certificações relevantes, e aplico esse conhecimento para desenvolver projetos cada vez melhores! Também tenho afinidade por análise de dados: tratamento, visualização e extração de insights para apoiar decisões.
-# Foto
+# 📸 Foto

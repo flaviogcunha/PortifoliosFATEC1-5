@@ -67,11 +67,19 @@
 **📱 GeoRah – 2025-2**
 
 # 🎈 Site Scrum Tutor – 2023-2
+
 ## 🏰 Empresa Parceira
 O projeto foi realizado em colaboração com a FATEC São José dos Campos – Prof. Jessen Vidal, com a proposta de desenvolver uma solução educacional voltada ao ensino e utilização da metodologia ágil Scrum.
 A instituição participou como cliente e parceira acadêmica, apresentando o desafio de converter o conteúdo teórico sobre metodologias ágeis em uma experiência prática, dinâmica e acessível para os estudantes.
 
 ## ⛔ Problema
+Muitas equipes têm dificuldade em aprender e aplicar o Scrum na prática, já que o ensino da metodologia costuma ser extremamente teórico e pouco interativo. Isso faz com que conceitos importantes como papéis, cerimônias e fluxo de trabalho, sejam mal compreendidos, resultando em falhas de comunicação, baixa organização e redução da produtividade.
+
+## 🌟 Solução
+Desenvolvemos uma aplicação web interativa que facilita o aprendizado e a aplicação do Scrum. A plataforma apresenta os conceitos, papéis e cerimônias de forma prática e visual, permitindo que o usuário compreenda o fluxo da metodologia enquanto a utiliza. A solução foi pensada tanto para estudantes quanto para profissionais, oferecendo uma experiência acessível, dinâmica e alinhada às necessidades reais de equipes que desejam adotar ou aprimorar o uso do Scrum.
+
+## 🔗 GITHUB
+[Thoth-TECH - SCRUM Tutor]((https://github.com/ThothTech-Fatec/Site-Scrum-Tutor_-Primeiro-Semestre))
 
 
 # 🤖 IA DataBank – Chave de Ankh – 2024-1

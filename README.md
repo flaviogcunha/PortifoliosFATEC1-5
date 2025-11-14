@@ -66,8 +66,8 @@
 **Project Gestum – 2025-1**  
 **GeoRah – 2025-2**
 
-## 🎈 Site Scrum Tutor – 2023-2
-# ⛔ Problema
+# 🎈 Site Scrum Tutor – 2023-2
+## ⛔ Problema
 O projeto foi realizado em colaboração com a FATEC São José dos Campos – Prof. Jessen Vidal, com a proposta de desenvolver uma solução educacional voltada ao ensino e utilização da metodologia ágil Scrum.
 A instituição participou como cliente e parceira acadêmica, apresentando o desafio de converter o conteúdo teórico sobre metodologias ágeis em uma experiência prática, dinâmica e acessível para os estudantes.
 

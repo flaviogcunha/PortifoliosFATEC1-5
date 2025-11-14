@@ -60,11 +60,11 @@
 
 # ✈️ Projetos
 
-**Site Scrum Tutor – 2023-2**  
-**IA DataBank – Chave de Ankh – 2024-1**  
-**Maat-View – 2024-2**  
-**Project Gestum – 2025-1**  
-**GeoRah – 2025-2**
+**🎈 Site Scrum Tutor – 2023-2**  
+**🤖 IA DataBank – Chave de Ankh – 2024-1**  
+**🖥️ Maat-View – 2024-2**  
+**⌨️ Project Gestum – 2025-1**  
+**📱 GeoRah – 2025-2**
 
 # 🎈 Site Scrum Tutor – 2023-2
 ## ⛔ Problema

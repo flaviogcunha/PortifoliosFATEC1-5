@@ -82,14 +82,15 @@ Desenvolvemos uma aplicação web interativa que facilita o aprendizado e a apli
 [Thoth-TECH - SCRUM Tutor](https://github.com/ThothTech-Fatec/Site-Scrum-Tutor_-Primeiro-Semestre)
 
 ## 👨‍💻 Tecnologias Utilizadas
-**• HTML5 – Base para a estruturação das páginas e organização dos elementos do site.**
-**• CSS3 – Responsável pela aparência visual e pela adaptação do layout em diferentes dispositivos.**
-**• Bootstrap – Framework utilizado para agilizar o desenvolvimento do layout e aplicar componentes modernos.**
-**• Python – Linguagem empregada na construção do back-end e no desenvolvimento do formulário avaliativo.**
-**• Flask – Microframework que possibilitou a criação das rotas e a integração da aplicação de maneira simples e eficiente.**
-**• Figma – Ferramenta escolhida para o design das telas e criação dos protótipos do projeto.**
-**• GitHub – Plataforma usada para versionamento, organização e colaboração durante o desenvolvimento.**
+**• HTML5 – Base para a estruturação das páginas e organização dos elementos do site.**  
+**• CSS3 – Responsável pela aparência visual e pela adaptação do layout em diferentes dispositivos.**  
+**• Bootstrap – Framework utilizado para agilizar o desenvolvimento do layout e aplicar componentes modernos.**  
+**• Python – Linguagem empregada na construção do back-end e no desenvolvimento do formulário avaliativo.**  
+**• Flask – Microframework que possibilitou a criação das rotas e a integração da aplicação de maneira simples e eficiente.**  
+**• Figma – Ferramenta escolhida para o design das telas e criação dos protótipos do projeto.**  
+**• GitHub – Plataforma usada para versionamento, organização e colaboração durante o desenvolvimento.**  
 **• Visual Studio Code – Ambiente de desenvolvimento principal utilizado para programar, testar e organizar o projeto.**
+
 
 ## 🧑 Contribuições Pessoais
 Atuei como Product Owner da equipe, sendo responsável por definir e priorizar o backlog, alinhar as necessidades do cliente com o time e garantir que as entregas atendessem aos requisitos e objetivos do projeto. Mantive a visão do produto clara para todos, organizando reuniões de planejamento, refinamento e acompanhamento das funcionalidades.

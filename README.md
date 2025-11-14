@@ -97,6 +97,18 @@ Atuei como Product Owner da equipe, sendo responsável por definir e priorizar o
 Além das atividades centrais do PO, também contribuí em outras áreas do desenvolvimento. Participei da implementação do front-end e do back-end, auxiliando na construção das páginas HTML, na aplicação dos estilos em CSS e Bootstrap e na definição do fluxo das telas criadas no Figma.
 No back-end, ofereci suporte na integração da estrutura Flask em Python, ajudando na organização das rotas e no funcionamento do formulário avaliativo.
 
+## 🧩 Hard Skills
+
+| **Habilidade**              | **Descrição**                                         | **Nível de Proficiência**        |
+|-----------------------------|--------------------------------------------------------|----------------------------------|
+| **HTML5 / CSS3**           | Criação de páginas estruturadas e estilizadas          | Sei fazer com autonomia          |
+| **Bootstrap**              | Uso de componentes prontos e responsividade           | Sei fazer com autonomia          |
+| **Python / Flask**         | Desenvolvimento de back-end e rotas dinâmicas         | Sei fazer com autonomia          |
+| **Git / GitHub**           | Versionamento e controle colaborativo de código        | Sei fazer com autonomia          |
+| **Figma**                  | Criação de protótipos e design de interface           | Sei fazer com autonomia              |
+| **Metodologias Ágeis como PO (Scrum)** | Planejamento e facilitação das sprints            | Sei fazer com apoio          |
+
+
 # 🤖 IA DataBank – Chave de Ankh – 2024-1
 # 🖥️ Maat-View – 2024-2
 # ⌨️ Project Gestum – 2025-1

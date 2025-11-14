@@ -79,7 +79,7 @@ Muitas equipes têm dificuldade em aprender e aplicar o Scrum na prática, já q
 Desenvolvemos uma aplicação web interativa que facilita o aprendizado e a aplicação do Scrum. A plataforma apresenta os conceitos, papéis e cerimônias de forma prática e visual, permitindo que o usuário compreenda o fluxo da metodologia enquanto a utiliza. A solução foi pensada tanto para estudantes quanto para profissionais, oferecendo uma experiência acessível, dinâmica e alinhada às necessidades reais de equipes que desejam adotar ou aprimorar o uso do Scrum.
 
 ## 🔗 GITHUB
-[Thoth-TECH - SCRUM Tutor]((https://github.com/ThothTech-Fatec/Site-Scrum-Tutor_-Primeiro-Semestre))
+[Thoth-TECH - SCRUM Tutor](https://github.com/ThothTech-Fatec/Site-Scrum-Tutor_-Primeiro-Semestre)
 
 
 # 🤖 IA DataBank – Chave de Ankh – 2024-1

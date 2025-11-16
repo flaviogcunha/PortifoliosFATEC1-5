@@ -110,6 +110,15 @@ No back-end, ofereci suporte na integração da estrutura Flask em Python, ajuda
 
 ## 💬 Soft Skills
 
+| Soft Skill        | Aplicação Prática                                                                 |
+|-------------------|------------------------------------------------------------------------------------|
+| Liderança         | Atuei como Product Owner, direcionando o time, alinhando expectativas e garantindo que as entregas refletissem as necessidades do projeto. |
+| Comunicação       | Mantive comunicação clara com a equipe durante reuniões e checkpoints, facilitando o entendimento das demandas e garantindo alinhamento. |
+| Organização       | Gerenciei o backlog, defini prioridades e assegurei que cada sprint tivesse objetivos bem estruturados. |
+| Proatividade      | Identifiquei melhorias no produto e sugeri ajustes funcionais e de design para elevar a qualidade da experiência do usuário. |
+| Trabalho em Equipe | Colaborei com desenvolvedores e designers para garantir que as funcionalidades planejadas fossem implementadas de forma eficiente. |
+
+
 
 
 

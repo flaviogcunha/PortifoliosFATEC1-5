@@ -154,9 +154,32 @@ Além disso, o sistema foi estruturado para ser flexível, suportando diferentes
 
 
 ## 🧑 Contribuições Pessoais
-Atuei como Product Owner da equipe, sendo responsável por definir e priorizar o backlog, alinhar as necessidades do cliente com o time e garantir que as entregas atendessem aos requisitos e objetivos do projeto. Mantive a visão do produto clara para todos, organizando reuniões de planejamento, refinamento e acompanhamento das funcionalidades.
-Além das atividades centrais do PO, também contribuí em outras áreas do desenvolvimento. Participei da implementação do front-end e do back-end, auxiliando na construção das páginas HTML, na aplicação dos estilos em CSS e Bootstrap e na definição do fluxo das telas criadas no Figma.
-No back-end, ofereci suporte na integração da estrutura Flask em Python, ajudando na organização das rotas e no funcionamento do formulário avaliativo.
+Como membro da equipe de desenvolvimento, atuei principalmente na implementação das funcionalidades do back-end em Java e na integração do sistema com o banco de dados MySQL. Trabalhei na conexão entre o chatbot e o mecanismo de processamento em linguagem natural utilizando LangChain4j, garantindo que as perguntas enviadas pelo usuário fossem interpretadas corretamente.
+Também participei dos testes com os modelos executados localmente por meio do Ollama e LM Studio, validando o comportamento da IA e ajustando a comunicação entre as camadas do sistema. Durante o desenvolvimento, usei GitHub para versionamento e colaboração com o time, contribuindo para manter o código organizado e padronizado.
+Minha atuação ajudou a garantir que o sistema funcionasse de forma estável, interpretando perguntas e retornando dados reais do banco de maneira simples e eficiente.
+
+## 🧩 Hard Skills
+
+| Habilidade | Descrição | Nível de Proficiência |
+|-----------|-----------|------------------------|
+| **Java** | Desenvolvimento do back-end e integração do sistema com serviços de IA. | Sei fazer com apoio |
+| **MySQL** | Criação de estruturas, consultas e conexão entre aplicação e banco de dados. | Sei fazer com autonomia |
+| **LangChain4j / LM Studio / Ollama** | Configuração e uso de modelos de linguagem rodando localmente. | Sei fazer com apoio |
+| **Figma** | Prototipagem e organização das telas e fluxos do chatbot. | Sei fazer com apoio |
+| **Git / GitHub** | Versionamento, gerenciamento de branches e colaboração com o time. | Sei fazer com autonomia |
+| **Scrum / Metodologias Ágeis** | Planejamento, acompanhamento das entregas e organização das sprints. | Sei fazer com autonomia |
+
+
+## 💬 Soft Skills
+
+| Soft Skill | Aplicação Prática |
+|-----------|--------------------|
+| **Comunicação** | Garanti alinhamento entre a equipe e os orientadores, mantendo clareza nos objetivos do projeto. |
+| **Liderança de Produto** | Contribuí na organização do backlog e na priorização das funcionalidades mais importantes. |
+| **Trabalho em Equipe** | Atuei em conjunto com desenvolvedores e designers para integrar soluções e manter consistência no projeto. |
+| **Pensamento Analítico** | Analisei comportamentos da IA e sugeri melhorias para tornar as respostas mais assertivas. |
+| **Proatividade** | Identifiquei possíveis melhorias e propus ajustes que elevaram a qualidade da experiência do usuário. |
+
 
 
 

@@ -130,7 +130,7 @@ No back-end, ofereci suporte na integração da estrutura Flask em Python, ajuda
 O projeto foi desenvolvido no curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos – Prof. Jessen Vidal, em colaboração com a empresa acadêmica ThothTech. A proposta apresentada envolvia solucionar uma dificuldade recorrente no ambiente acadêmico: a necessidade de acessar informações armazenadas em bancos de dados sem depender de conhecimento técnico em SQL. Para isso, a equipe foi desafiada a criar uma solução inteligente capaz de interpretar perguntas em linguagem natural e transformá-las em consultas apropriadas ao banco de dados. O objetivo era tornar o processo de busca por informações mais rápido, intuitivo e acessível para qualquer usuário.
 
 ## ⛔ Problema
-Usuários de negócio e analistas têm dificuldade para obter dados diretamente de bancos relacionais, pois isso exige conhecimento técnico em SQL. Como consequência, decisões importantes acabam sendo atrasadas, já que a geração de relatórios depende constantemente da equipe de TI — criando um fluxo pouco eficiente e dificultando o acesso rápido à informação.
+Usuários de negócio e analistas têm dificuldade para obter dados diretamente de bancos relacionais, pois isso exige conhecimento técnico em SQL. Como consequência, decisões importantes acabam sendo atrasadas, já que a geração de relatórios depende constantemente da equipe de TI criando um fluxo pouco eficiente e dificultando o acesso rápido à informação.
 
 ## 🌟 Solução
 O time desenvolveu o IA DataBank – Chave de Ankh, um chatbot inteligente capaz de interpretar perguntas em linguagem natural e convertê-las automaticamente em consultas SQL.
@@ -142,14 +142,15 @@ Além disso, o sistema foi estruturado para ser flexível, suportando diferentes
 [Thoth-TECH - IA DataBank](https://github.com/ThothTech-Fatec/IA-DataBank)
 
 ## 👨‍💻 Tecnologias Utilizadas
-• Java – Linguagem principal adotada no desenvolvimento do sistema.
-• MySQL – Banco de dados relacional utilizado para armazenamento e consulta das informações.
-• LangChain4j – Biblioteca utilizada para integrar modelos de linguagem ao ecossistema Java.
-• LM Studio – Plataforma empregada para execução local dos modelos de IA durante os testes.
-• Ollama – Ferramenta de inferência usada para rodar modelos de linguagem em ambiente local.
-• Figma – Utilizado para criação dos protótipos e definição da interface do usuário.
-• GitHub – Plataforma usada para controle de versão, organização e colaboração entre a equipe.
-• Visual Studio Code – IDE utilizada para desenvolvimento, testes e depuração do sistema.
+**• Java** – Linguagem principal adotada no desenvolvimento do sistema.  
+**• MySQL** – Banco de dados relacional utilizado para armazenamento e consulta das informações.  
+**• LangChain4j** – Biblioteca utilizada para integrar modelos de linguagem ao ecossistema Java.  
+**• LM Studio** – Plataforma empregada para execução local dos modelos de IA durante os testes.  
+**• Ollama** – Ferramenta de inferência usada para rodar modelos de linguagem em ambiente local.  
+**• Figma** – Utilizado para criação dos protótipos e definição da interface do usuário.  
+**• GitHub** – Plataforma usada para controle de versão, organização e colaboração entre a equipe.  
+**• Visual Studio Code** – IDE utilizada para desenvolvimento, testes e depuração do sistema.  
+
 
 
 ## 🧑 Contribuições Pessoais

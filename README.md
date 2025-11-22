@@ -127,27 +127,29 @@ No back-end, ofereci suporte na integração da estrutura Flask em Python, ajuda
 # 🤖 IA DataBank – Chave de Ankh – 2024-1
 
 ## 🏰 Empresa Parceira
-O projeto foi realizado em colaboração com a FATEC São José dos Campos – Prof. Jessen Vidal, com a proposta de desenvolver uma solução educacional voltada ao ensino e utilização da metodologia ágil Scrum.
-A instituição participou como cliente e parceira acadêmica, apresentando o desafio de converter o conteúdo teórico sobre metodologias ágeis em uma experiência prática, dinâmica e acessível para os estudantes.
+O projeto foi desenvolvido no curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos – Prof. Jessen Vidal, em colaboração com a empresa acadêmica ThothTech. A proposta apresentada envolvia solucionar uma dificuldade recorrente no ambiente acadêmico: a necessidade de acessar informações armazenadas em bancos de dados sem depender de conhecimento técnico em SQL. Para isso, a equipe foi desafiada a criar uma solução inteligente capaz de interpretar perguntas em linguagem natural e transformá-las em consultas apropriadas ao banco de dados. O objetivo era tornar o processo de busca por informações mais rápido, intuitivo e acessível para qualquer usuário.
 
 ## ⛔ Problema
-Muitas equipes têm dificuldade em aprender e aplicar o Scrum na prática, já que o ensino da metodologia costuma ser extremamente teórico e pouco interativo. Isso faz com que conceitos importantes como papéis, cerimônias e fluxo de trabalho, sejam mal compreendidos, resultando em falhas de comunicação, baixa organização e redução da produtividade.
+Usuários de negócio e analistas têm dificuldade para obter dados diretamente de bancos relacionais, pois isso exige conhecimento técnico em SQL. Como consequência, decisões importantes acabam sendo atrasadas, já que a geração de relatórios depende constantemente da equipe de TI — criando um fluxo pouco eficiente e dificultando o acesso rápido à informação.
 
 ## 🌟 Solução
-Desenvolvemos uma aplicação web interativa que facilita o aprendizado e a aplicação do Scrum. A plataforma apresenta os conceitos, papéis e cerimônias de forma prática e visual, permitindo que o usuário compreenda o fluxo da metodologia enquanto a utiliza. A solução foi pensada tanto para estudantes quanto para profissionais, oferecendo uma experiência acessível, dinâmica e alinhada às necessidades reais de equipes que desejam adotar ou aprimorar o uso do Scrum.
+O time desenvolveu o IA DataBank – Chave de Ankh, um chatbot inteligente capaz de interpretar perguntas em linguagem natural e convertê-las automaticamente em consultas SQL.
+A solução identifica a intenção do usuário, gera a consulta adequada ao banco de dados e apresenta o resultado diretamente na conversa, eliminando a necessidade de conhecimento técnico em SQL.
+A interface foi projetada com foco na experiência do usuário: visual limpa, navegação intuitiva e interação totalmente natural, permitindo que qualquer pessoa consulte informações com facilidade.
+Além disso, o sistema foi estruturado para ser flexível, suportando diferentes bancos de dados e se adaptando a diversos cenários e tecnologias, ampliando seu potencial de uso em ambientes acadêmicos e corporativos.
 
 ## 🔗 GITHUB
-[Thoth-TECH - SCRUM Tutor](https://github.com/ThothTech-Fatec/Site-Scrum-Tutor_-Primeiro-Semestre)
+[Thoth-TECH - IA DataBank](https://github.com/ThothTech-Fatec/IA-DataBank)
 
 ## 👨‍💻 Tecnologias Utilizadas
-**• HTML5 – Base para a estruturação das páginas e organização dos elementos do site.**  
-**• CSS3 – Responsável pela aparência visual e pela adaptação do layout em diferentes dispositivos.**  
-**• Bootstrap – Framework utilizado para agilizar o desenvolvimento do layout e aplicar componentes modernos.**  
-**• Python – Linguagem empregada na construção do back-end e no desenvolvimento do formulário avaliativo.**  
-**• Flask – Microframework que possibilitou a criação das rotas e a integração da aplicação de maneira simples e eficiente.**  
-**• Figma – Ferramenta escolhida para o design das telas e criação dos protótipos do projeto.**  
-**• GitHub – Plataforma usada para versionamento, organização e colaboração durante o desenvolvimento.**  
-**• Visual Studio Code – Ambiente de desenvolvimento principal utilizado para programar, testar e organizar o projeto.**
+• Java – Linguagem principal adotada no desenvolvimento do sistema.
+• MySQL – Banco de dados relacional utilizado para armazenamento e consulta das informações.
+• LangChain4j – Biblioteca utilizada para integrar modelos de linguagem ao ecossistema Java.
+• LM Studio – Plataforma empregada para execução local dos modelos de IA durante os testes.
+• Ollama – Ferramenta de inferência usada para rodar modelos de linguagem em ambiente local.
+• Figma – Utilizado para criação dos protótipos e definição da interface do usuário.
+• GitHub – Plataforma usada para controle de versão, organização e colaboração entre a equipe.
+• Visual Studio Code – IDE utilizada para desenvolvimento, testes e depuração do sistema.
 
 
 ## 🧑 Contribuições Pessoais

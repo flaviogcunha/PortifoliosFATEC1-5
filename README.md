@@ -341,3 +341,29 @@ Desenvolvemos o GeoRah, um aplicativo mobile multiplataforma projetado para faci
 **• SQLAlchemy** – Utilizado para modelar tabelas, gerenciar dados e relacionamentos.  
 **• PostgreSQL / SQLite** – Bancos de dados relacionais utilizados para armazenar e consultar as informações do sistema.  
 
+
+
+## 🧑 Contribuições Pessoais
+Atuei principalmente na integração das APIs utilizadas pelo aplicativo, trabalhando diretamente com a Google Maps API e o Plus Code para viabilizar a identificação de coordenadas, delimitação de áreas e exibição precisa das propriedades no mapa. Minha participação envolveu a configuração dos serviços externos, tratamento das respostas e integração dos dados com o fluxo interno do aplicativo.
+Também trabalhei na conexão do app com o back-end, auxiliando na comunicação entre o React Native e a API, garantindo que informações de propriedades, rotas e alertas fossem enviadas e recebidas corretamente. Contribuí no consumo das rotas, padronização das requisições e integração com o banco de dados relacional utilizado no projeto.
+Além disso, participei da organização e refinamento das telas do aplicativo, atuando junto ao time na transição dos protótipos criados no Figma para o ambiente de desenvolvimento, alinhando comportamentos, navegação e estrutura visual para manter coerência entre design e implementação.
+
+## 🧩 Hard Skills
+**Habilidade** | **Descrição** | **Nível de Proficiência**
+--- | --- | ---
+**React Native / TypeScript** | Desenvolvimento mobile e ligação entre recursos do app e serviços externos | Sei fazer com apoio
+**Python (Flask / FastAPI)** | Implementação de rotas e comunicação entre app e servidor | Sei fazer com apoio
+**PostgreSQL / SQLite** | Estruturação de tabelas e manipulação de dados armazenados | Sei fazer com apoio
+**Firebase / Supabase** | Configuração de serviços de autenticação e envio de notificações | Sei fazer com apoio
+**Jira / Scrum** | Organização do fluxo de trabalho e acompanhamento das entregas da equipe | Sei fazer com autonomia
+**Git / GitHub** | Controle de versões, revisão de código e colaboração entre desenvolvedores | Sei fazer com autonomia
+
+## 💬 Soft Skills
+**Soft Skill** | **Aplicação Prática**
+--- | ---
+**Trabalho em Equipe** | Contribuí ativamente no desenvolvimento em grupo e apoio nas correções quando necessário.
+**Comunicação** | Mantive alinhamento contínuo com PO e SM sobre prioridades e integração das funcionalidades.
+**Proatividade** | Propus ajustes em fluxos e comportamentos da interface relacionados ao uso do mapa.
+**Organização** | Registrei alterações no repositório e mantive a documentação clara ao longo das sprints.
+**Pensamento Crítico** | Avaliei alternativas de integração com APIs externas buscando melhor desempenho e estabilidade.
+

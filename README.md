@@ -330,6 +330,7 @@ Desenvolvemos o GeoRah, um aplicativo mobile multiplataforma projetado para faci
 [Thoth-TECH - GEO-Rah](https://github.com/ThothTech-Fatec/GeoRah)
 
 ## 👨‍💻 Tecnologias Utilizadas
+
 **• React Native (Expo)** – Framework usado para desenvolver o aplicativo mobile em múltiplas plataformas.
 **• TypeScript** – Adiciona tipagem estática ao código, aumentando segurança e reduzindo erros.
 **• React Navigation** – Biblioteca responsável por gerenciar rotas e navegação entre telas.

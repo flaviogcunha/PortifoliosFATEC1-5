@@ -165,7 +165,7 @@ Minha atuação ajudou a garantir que o sistema funcionasse de forma estável, i
 | **Java** | Desenvolvimento do back-end e integração do sistema com serviços de IA. | Sei fazer com apoio |
 | **MySQL** | Criação de estruturas, consultas e conexão entre aplicação e banco de dados. | Sei fazer com autonomia |
 | **LangChain4j / LM Studio / Ollama** | Configuração e uso de modelos de linguagem rodando localmente. | Sei fazer com apoio |
-| **Figma** | Prototipagem e organização das telas e fluxos do chatbot. | Sei fazer com apoio |
+| **Figma** | Prototipagem e organização das telas e fluxos do chatbot. | Sei fazer com autonomia |
 | **Git / GitHub** | Versionamento, gerenciamento de branches e colaboração com o time. | Sei fazer com autonomia |
 | **Scrum / Metodologias Ágeis** | Planejamento, acompanhamento das entregas e organização das sprints. | Sei fazer com autonomia |
 
@@ -185,16 +185,158 @@ Minha atuação ajudou a garantir que o sistema funcionasse de forma estável, i
 
 
 
-
-
-
-
-
-
-
-
-
 # 🖥️ Maat-View – 2024-2
+
+## 🏰 Empresa Parceira
+O Maat-View foi desenvolvido no curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos – Prof. Jessen Vidal, em parceria com a empresa Youtan. O projeto teve como foco criar um dashboard web para monitorar indicadores de Feedback, Clima e Cultura Organizacional, oferecendo uma visualização clara e prática do desenvolvimento dos colaboradores e apoiando iniciativas de melhoria contínua dentro da empresa.
+
+## ⛔ Problema
+Muitas organizações têm dificuldade em acompanhar percepções internas e entender como seus colaboradores se sentem no dia a dia. A ausência de ferramentas práticas para reunir e interpretar feedbacks torna o processo de avaliação fragmentado e pouco eficiente, dificultando a comunicação entre equipes, líderes e RH.
+Diante disso, identificou-se a necessidade de um sistema único que concentrasse todo o ciclo de avaliação desde a criação dos formulários até a análise dos resultados oferecendo uma visão clara, acessível e organizada para apoiar a gestão de pessoas e fortalecer o clima organizacional.
+
+## 🌟 Solução
+O Maat-View foi desenvolvido como uma plataforma completa para gestão de feedback e desempenho. Ele permite que RH e líderes criem pesquisas personalizadas, organizem perguntas por categorias e acompanhem os resultados em dashboards interativos.
+Com uma interface intuitiva e responsiva, o sistema oferece acesso por diferentes perfis como administradores, líderes e liderados garantindo controle adequado das avaliações. A plataforma centraliza a criação, aplicação e análise das pesquisas, permitindo visualizar tanto os resultados individuais quanto o desempenho das equipes, facilitando a tomada de decisões e fortalecendo a gestão de pessoas.
+
+## 🔗 GITHUB
+[Thoth-TECH - Maat-View](https://github.com/ThothTech-Fatec/Maat-View)
+
+## 👨‍💻 Tecnologias Utilizadas
+**• React** – Utilizado para construir uma interface moderna, dinâmica e fácil de navegar.  
+**• TypeScript** – Garantiu maior segurança no código com tipagem estática e melhor organização do front-end.  
+**• JavaScript** – Aplicado para criar interações, comportamentos e funcionalidades da aplicação.  
+**• MySQL** – Responsável por armazenar os dados do sistema e permitir consultas estruturadas.  
+**• Figma** – Ferramenta usada para planejar o visual da aplicação e criar o design das telas.  
+**• HTML5 / CSS3** – Base para estruturar o conteúdo e definir o estilo visual da interface.  
+**• GitHub** – Utilizado para versionamento, documentação e colaboração entre os membros do projeto.  
+**• Visual Studio Code** – Ambiente utilizado para desenvolver, testar e ajustar o código da aplicação.  
+
+
+
+## 🧑 Contribuições Pessoais
+No projeto Maat-View, atuei no desenvolvimento do front-end utilizando React e TypeScript, implementando componentes e telas do dashboard de avaliações. Contribuí na construção das interfaces de visualização de resultados, formulários de pesquisa e páginas de acesso dos diferentes perfis (Administrador, Líder e Liderado), garantindo que fossem responsivas e seguissem o layout definido no Figma.
+Além disso, trabalhei na comunicação da interface com o MySQL, configurando requisições para buscar dados, exibir indicadores e atualizar informações conforme as ações do usuário. Ajustei lógicas de renderização, estados e integração das métricas para que os gráficos e análises fossem exibidos corretamente.
+Essas contribuições ajudaram na construção das funcionalidades de visualização e interação do sistema, fortalecendo a experiência do usuário e o fluxo das avaliações dentro da plataforma.
+
+## 🧩 Hard Skills
+
+| Habilidade | Descrição | Nível de Proficiência |
+|-----------|-----------|------------------------|
+| **React / TypeScript** | Desenvolvimento de interfaces funcionais, componentes reutilizáveis e lógica de interação. | Sei fazer com autonomia |
+| **MySQL** | Criação de tabelas, consultas e integração dos dados com o sistema. | Sei fazer com autonomia |
+| **JavaScript / HTML / CSS** | Estruturação das páginas, estilização e implementação de comportamentos responsivos. | Sei fazer com autonomia |
+| **Figma** | Desenho de telas, definição de fluxo visual e apoio na criação da interface. | Sei fazer com autonomia |
+| **Git / GitHub** | Versionamento, criação de branches, revisão e colaboração com o time. | Sei fazer com autonomia |
+| **Metodologias Ágeis (Scrum)** | Participação em sprints, acompanhamento das entregas e organização das tarefas. | Sei fazer com apoio |
+
+## 💬 Soft Skills
+
+| Soft Skill | Aplicação Prática |
+|-----------|--------------------|
+| **Trabalho em Equipe** | Atuei junto aos desenvolvedores garantindo alinhamento entre front-end e back-end. |
+| **Comunicação** | Mantive contato constante com o time para esclarecer dúvidas e sincronizar etapas do projeto. |
+| **Organização** | Contribuí para manter o repositório padronizado, com commits claros e código estruturado. |
+| **Resolução de Problemas** | Identifiquei e corrigi falhas na interface, além de otimizar componentes quando necessário. |
+| **Proatividade** | Sugeri melhorias de usabilidade e ajustes que aprimoraram o funcionamento do sistema. |
+
+
+
+
+
+
+
+
+
+
 # ⌨️ Project Gestum – 2025-1
+
+## 🏰 Empresa Parceira
+O Project Gestum foi desenvolvido no curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos Prof. Jessen Vidal, em colaboração com a FAPG (Fundação de Apoio à Pesquisa e Gestão). O projeto teve como foco criar um sistema web para gerenciar iniciativas de Pesquisa e Desenvolvimento Tecnológico, oferecendo recursos para cadastrar, acompanhar e organizar projetos de forma mais transparente, estruturada e eficiente.
+
+## ⛔ Problema
+A FAPG administrava diversos projetos de pesquisa de maneira pouco integrada, recorrendo a planilhas isoladas, documentos separados e trocas de e-mails. Esse modelo descentralizado dificultava o controle dos prazos, tornava complexo acompanhar as atividades dos bolsistas e gerava pouca visibilidade sobre o andamento real de cada projeto financiado.
+
+## 🌟 Solução
+Entregamos o Project Gestum, um sistema web voltado ao gerenciamento completo de projetos. A plataforma permite cadastrar editais e projetos, definir responsáveis, organizar tarefas e acompanhar o progresso das atividades. Além disso, conta com dashboards visuais que exibem cronogramas, prazos e indicadores essenciais, centralizando todas as informações em um único ambiente. Com isso, os gestores passaram a ter uma visão em tempo real do andamento das pesquisas, facilitando o controle e a tomada de decisões.
+
+## 🔗 GITHUB
+[Thoth-TECH - Project Gestum](https://github.com/ThothTech-Fatec/Project-Gestum)
+
+## 👨‍💻 Tecnologias Utilizadas
+**• React** – Utilizado para construir as telas do sistema com interatividade e navegação fluida.  
+**• TypeScript** – Responsável por adicionar tipagem e melhorar a confiabilidade do código no front-end.  
+**• JavaScript** – Aplicado na implementação da lógica dos componentes e comportamentos da interface.  
+**• MySQL** – Banco de dados utilizado para armazenar informações dos editais, projetos e tarefas.  
+**• CSS3 / HTML5** – Base da estrutura visual e estilização responsiva da aplicação web.  
+**• Jira** – Ferramenta usada para organizar as atividades e acompanhar o andamento das sprints.  
+**• GitHub** – Utilizado para versionar o projeto, revisar alterações e colaborar com o time.  
+**• Visual Studio Code** – Ambiente de desenvolvimento empregado na codificação e testes da aplicação.  
+
+
+## 🧑 Contribuições Pessoais
+No Project Gestum, atuei como Scrum Master, sendo responsável por organizar o fluxo das sprints, facilitar a comunicação entre os integrantes e garantir que as entregas estivessem alinhadas aos objetivos do projeto. Conduzi reuniões de planejamento e revisões, ajudando a manter o time focado e com boa visibilidade das prioridades.
+Além das atividades de liderança ágil, também contribui no desenvolvimento do front-end utilizando React, TypeScript e JavaScript, auxiliando na criação de telas e componentes do sistema. Colaborei na integração da interface com o banco de dados MySQL, garantindo que informações de editais e projetos fossem exibidas corretamente nos dashboards.
+Utilizei GitHub para organização do versionamento e acompanhei todo o progresso do time pelo Jira, assegurando que as tarefas estivessem devidamente distribuídas e acompanhadas ao longo do ciclo de desenvolvimento.
+
+
+## 🧩 Hard Skills
+
+| Habilidade | Descrição | Nível de Proficiência |
+|-----------|-----------|------------------------|
+| **React / TypeScript** | Construção de interfaces funcionais e componentes responsivos. | Sei fazer com autonomia |
+| **MySQL** | Estruturação do banco de dados e criação de consultas eficientes. | Sei fazer com autonomia |
+| **JavaScript / HTML / CSS** | Implementação da lógica de interação e organização visual da aplicação. | Sei fazer com autonomia |
+| **Jira / Scrum** | Planejamento, acompanhamento e organização das atividades durante as sprints. | Sei fazer com autonomia |
+| **Git / GitHub** | Versionamento, revisão de código e colaboração com o time. | Sei fazer com autonomia |
+| **Documentação Técnica** | Registro de requisitos, evolução do projeto e relatórios de sprint. | Sei fazer com autonomia |
+
+
+## 💬 Soft Skills
+
+| Soft Skill | Aplicação Prática |
+|-----------|--------------------|
+| **Liderança de Produto** | Como Product Owner, organizei o backlog e direcionei as prioridades do projeto. |
+| **Comunicação** | Mantive diálogo constante com a equipe e com a FAPG para alinhar expectativas e entregas. |
+| **Trabalho em Equipe** | Colaborei com desenvolvedores e com o Scrum Master para garantir fluidez no desenvolvimento. |
+| **Organização** | Estruturei documentos de requisitos, atas e registros que apoiaram o andamento das sprints. |
+| **Pensamento Analítico** | Avaliei funcionalidades e identifiquei melhorias para desempenho e usabilidade do sistema. |
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 📱 GeoRah – 2025-2
+
+## 🏰 Empresa Parceira
+O projeto GeoRah foi desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos – Prof. Jessen Vidal, em parceria com a Visiona Tecnologia Espacial, empresa especializada em integração de sistemas espaciais e soluções de sensoriamento remoto.
+O GeoRah é um aplicativo mobile voltado para a gestão de propriedades rurais, utilizando APIs como Google Maps e Plus Code para facilitar a definição precisa de endereços, geração de rotas otimizadas e envio de alertas em tempo real, tornando o trabalho no campo mais eficiente e organizado.
+
+## ⛔ Problema
+Produtores rurais e administradores de propriedades frequentemente enfrentam dificuldades para organizar informações geográficas, planejar rotas e acompanhar áreas de forma digital e centralizada. A falta de uma ferramenta única e intuitiva torna esses processos lentos, imprecisos e dependentes de métodos manuais, o que prejudica a comunicação entre as equipes de campo.
+Diante desse cenário, identificou-se a necessidade de um aplicativo mobile capaz de reunir dados, rotas e alertas em um só lugar, oferecendo uma solução simples, acessível e funcional mesmo em regiões com infraestrutura tecnológica limitada.
+
+## 🌟 Solução
+Desenvolvemos o GeoRah, um aplicativo mobile multiplataforma projetado para facilitar o gerenciamento de propriedades rurais. A solução utiliza a API do Google Maps para que o produtor possa desenhar e delimitar áreas diretamente na tela, obtendo automaticamente a metragem e organizando pontos de interesse com precisão. O app opera de forma híbrida, garantindo acesso rápido às informações da propriedade mesmo em ambientes com conectividade limitada.
+
+## 🔗 GITHUB
+[Thoth-TECH - GEO-Rah](https://github.com/ThothTech-Fatec/GeoRah)
+
+## 👨‍💻 Tecnologias Utilizadas
+**• React Native (Expo)** – Framework usado para desenvolver o aplicativo mobile em múltiplas plataformas.
+**• TypeScript** – Adiciona tipagem estática ao código, aumentando segurança e reduzindo erros.
+**• React Navigation** – Biblioteca responsável por gerenciar rotas e navegação entre telas.
+**• Redux Toolkit / Context API** – Utilizados para gerenciar o estado global da aplicação de forma eficiente.
+**• Axios / React Query** – Ferramentas que realizam requisições HTTP, controle de cache e sincronização de dados.
+**• Styled Components / NativeWind** – Utilizados para estilizar o app com visual moderno e responsivo.
+**• Python (FastAPI / Flask)** – Tecnologias usadas para construir e integrar a API com o aplicativo.
+**• SQLAlchemy** – utilizado para modelar tabelas, gerenciar dados e relacionamentos.
+**• PostgreSQL / SQLite** – Bancos de dados relacionais utilizados para armazenar e consultar as informações do sistema.
 

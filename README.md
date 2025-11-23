@@ -331,13 +331,13 @@ Desenvolvemos o GeoRah, um aplicativo mobile multiplataforma projetado para faci
 
 ## 👨‍💻 Tecnologias Utilizadas
 
-**• React Native (Expo)** – Framework usado para desenvolver o aplicativo mobile em múltiplas plataformas.
-**• TypeScript** – Adiciona tipagem estática ao código, aumentando segurança e reduzindo erros.
-**• React Navigation** – Biblioteca responsável por gerenciar rotas e navegação entre telas.
-**• Redux Toolkit / Context API** – Utilizados para gerenciar o estado global da aplicação de forma eficiente.
-**• Axios / React Query** – Ferramentas que realizam requisições HTTP, controle de cache e sincronização de dados.
-**• Styled Components / NativeWind** – Utilizados para estilizar o app com visual moderno e responsivo.
-**• Python (FastAPI / Flask)** – Tecnologias usadas para construir e integrar a API com o aplicativo.
-**• SQLAlchemy** – utilizado para modelar tabelas, gerenciar dados e relacionamentos.
-**• PostgreSQL / SQLite** – Bancos de dados relacionais utilizados para armazenar e consultar as informações do sistema.
+**• React Native (Expo)** – Framework usado para desenvolver o aplicativo mobile em múltiplas plataformas.  
+**• TypeScript** – Adiciona tipagem estática ao código, aumentando segurança e reduzindo erros.  
+**• React Navigation** – Biblioteca responsável por gerenciar rotas e navegação entre telas.  
+**• Redux Toolkit / Context API** – Utilizados para gerenciar o estado global da aplicação de forma eficiente.  
+**• Axios / React Query** – Ferramentas que realizam requisições HTTP, controle de cache e sincronização de dados.  
+**• Styled Components / NativeWind** – Utilizados para estilizar o app com visual moderno e responsivo.  
+**• Python (FastAPI / Flask)** – Tecnologias usadas para construir e integrar a API com o aplicativo.  
+**• SQLAlchemy** – Utilizado para modelar tabelas, gerenciar dados e relacionamentos.  
+**• PostgreSQL / SQLite** – Bancos de dados relacionais utilizados para armazenar e consultar as informações do sistema.  
 

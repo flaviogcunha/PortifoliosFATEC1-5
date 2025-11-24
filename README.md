@@ -120,7 +120,7 @@ No back-end, ofereci suporte na integração da estrutura Flask em Python, ajuda
 | **Proatividade**       | Sugeri melhorias sempre que identifiquei oportunidades de simplificar processos ou aprimorar a experiência do usuário. | Ao revisar uma nova funcionalidade, percebi um fluxo pouco intuitivo e sugeri um ajuste que tornou o uso mais simples.                                               |
 | **Trabalho em Equipe** | Colaborei diretamente com desenvolvedores e designers para garantir alinhamento durante o desenvolvimento.             | Em um novo módulo, alinhei o design com o responsável pela interface e validei com o desenvolvedor para garantir que tudo estivesse coerente antes da implementação. |
 
-## Video
+## 📼 Video
 https://github.com/gubasssss/ThothTech/assets/143751785/11ac8c77-7eb3-400e-8882-152af67f4523
 
 
@@ -187,7 +187,8 @@ Minha atuação ajudou a garantir que o sistema funcionasse de forma estável, i
 | **Pensamento Analítico** | Analisei o comportamento da IA para identificar pontos de melhoria nas interpretações.                | Durante os testes, percebi respostas inconsistentes e sugeri ajustes que tornaram os resultados mais precisos.                                         |
 | **Proatividade**         | Identifiquei melhorias e propus ajustes que aprimoraram a experiência do usuário.                     | Ao revisar o fluxo de consultas, notei que algumas respostas estavam pouco intuitivas e sugeri alterações que tornaram a interação mais clara.         |
 
-
+## 📼 Video
+https://github.com/HenryBRG/ThothTech-2/assets/143751785/9fb2ba7d-1170-4509-a09d-1c191025dab9
 
 
 
@@ -247,7 +248,8 @@ Essas contribuições ajudaram na construção das funcionalidades de visualiza�
 | **Resolução de Problemas** | Identifiquei falhas e busquei soluções práticas para manter o sistema estável. | Ao testar os gráficos, percebi inconsistências na renderização e corrigi a lógica para exibir os indicadores corretamente.                                 |
 | **Proatividade**           | Propus melhorias que ajudaram a tornar o sistema mais intuitivo e funcional.   | Ao revisar a navegação, sugeri ajustes que tornaram o acesso às análises mais fácil e direto para os usuários
 
-
+## 📼 Video
+https://github.com/user-attachments/assets/823e928f-226f-40f2-b061-4bcabf4d07cc
 
 
 
@@ -309,7 +311,8 @@ Utilizei GitHub para organização do versionamento e acompanhei todo o progress
 | **Proatividade**           | Sugeri melhorias no fluxo e nas telas para tornar o sistema mais intuitivo e funcional.                            | Em um dos módulos, propus reorganizar a página de projetos para facilitar a visualização dos responsáveis e prazos.                                                   |
 
 
-
+## 📼 Video
+https://drive.google.com/file/d/1E_LqwBUEnuI4WbZVlxlIdiEhuw84RwW_/view?usp=sharing
 
 
 
@@ -372,3 +375,6 @@ Além disso, participei da organização e refinamento das telas do aplicativo, 
 | **Proatividade**       | Antecipei melhorias no fluxo de navegação e no uso do mapa para facilitar a experiência em campo.  | Propus mudanças no fluxo de criação de áreas (simplificando passos) que reduziram o tempo necessário para registrar uma propriedade durante testes com usuários.         |
 | **Organização**        | Mantive o repositório atualizado e documentei decisões técnicas e alterações de implementação.     | Registrei PRs com descrições claras, atualizei o README das APIs utilizadas e deixei notas de como reproduzir testes de rota.                                            |
 | **Pensamento Crítico** | Avaliei alternativas de integração com APIs externas considerando desempenho e custo.              | Comparei abordagens (ex.: uso de Plus Codes vs geocoding direto) e recomendei a solução que ofereceu melhor precisão no contexto do app.             |
+
+
+## 📼 Video

@@ -70,6 +70,8 @@
 **⌨️ Project Gestum – 2025-1**  
 **📱 GeoRah – 2025-2**
 
+---
+
 # 🎈 Site Scrum Tutor – 2023-2
 
 ## 🏰 Empresa Parceira
@@ -131,7 +133,7 @@ https://github.com/gubasssss/ThothTech/assets/143751785/11ac8c77-7eb3-400e-8882-
 
 
 
-
+---
 
 # 🤖 IA DataBank – Chave de Ankh – 2024-1
 
@@ -193,7 +195,7 @@ https://github.com/HenryBRG/ThothTech-2/assets/143751785/9fb2ba7d-1170-4509-a09d
 
 
 
-
+---
 # 🖥️ Maat-View – 2024-2
 
 ## 🏰 Empresa Parceira
@@ -257,7 +259,7 @@ https://github.com/user-attachments/assets/823e928f-226f-40f2-b061-4bcabf4d07cc
 
 
 
-
+---
 # ⌨️ Project Gestum – 2025-1
 
 ## 🏰 Empresa Parceira
@@ -322,7 +324,7 @@ https://drive.google.com/file/d/1E_LqwBUEnuI4WbZVlxlIdiEhuw84RwW_/view?usp=shari
 
 
 
-
+---
 # 📱 GeoRah – 2025-2
 
 ## 🏰 Empresa Parceira

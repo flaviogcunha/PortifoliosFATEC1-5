@@ -112,15 +112,13 @@ No back-end, ofereci suporte na integração da estrutura Flask em Python, ajuda
 | **Figma**                  | Criação de protótipos e design de interface           | Sei fazer com autonomia              |
 | **Metodologias Ágeis como PO (Scrum)** | Planejamento e Consolidação das sprints            | Sei fazer com apoio          |
 
-## 💬 Soft Skills
-
-| Soft Skill        | Descrição                                                              |
-|-------------------|------------------------------------------------------------------------------------|
-| Liderança         | Atuei como Product Owner, direcionando o time, alinhando expectativas e garantindo que as entregas refletissem as necessidades do projeto. |
-| Comunicação       | Mantive comunicação clara com a equipe durante reuniões e checkpoints, facilitando o entendimento das demandas e garantindo alinhamento. |
-| Organização       | Gerenciei o backlog, defini prioridades e assegurei que cada sprint tivesse objetivos bem estruturados. |
-| Proatividade      | Identifiquei melhorias no produto e sugeri ajustes funcionais e de design para elevar a qualidade da experiência do usuário. |
-| Trabalho em Equipe | Colaborei com desenvolvedores e designers para garantir que as funcionalidades planejadas fossem implementadas de forma eficiente. |
+| **Soft Skill**         | **Descrição**                                                                                                          | **Exemplo na Prática**                                                                                                                                               |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Liderança**          | Atuei como Product Owner, direcionando o time e garantindo clareza nas entregas.                                       | Em uma sprint com prazos apertados, organizei as prioridades e ajudei a equipe a manter o foco no que realmente precisava ser entregue.                              |
+| **Comunicação**        | Mantive uma comunicação clara durante reuniões e alinhamentos para evitar interpretações diferentes.                   | Quando a empresa parceira solicitou ajustes, expliquei as mudanças para a equipe e garanti que todos entendessem o que precisava ser feito.                          |
+| **Organização**        | Gerenciei o backlog, revisei tarefas e mantive as sprints bem estruturadas.                                            | Após uma mudança de escopo, reorganizei o backlog e redistribuí as tarefas para que o planejamento da sprint continuasse viável.                                     |
+| **Proatividade**       | Sugeri melhorias sempre que identifiquei oportunidades de simplificar processos ou aprimorar a experiência do usuário. | Ao revisar uma nova funcionalidade, percebi um fluxo pouco intuitivo e sugeri um ajuste que tornou o uso mais simples.                                               |
+| **Trabalho em Equipe** | Colaborei diretamente com desenvolvedores e designers para garantir alinhamento durante o desenvolvimento.             | Em um novo módulo, alinhei o design com o responsável pela interface e validei com o desenvolvedor para garantir que tudo estivesse coerente antes da implementação. |
 
 
 

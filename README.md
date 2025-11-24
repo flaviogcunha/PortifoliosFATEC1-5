@@ -120,6 +120,14 @@ No back-end, ofereci suporte na integração da estrutura Flask em Python, ajuda
 | **Proatividade**       | Sugeri melhorias sempre que identifiquei oportunidades de simplificar processos ou aprimorar a experiência do usuário. | Ao revisar uma nova funcionalidade, percebi um fluxo pouco intuitivo e sugeri um ajuste que tornou o uso mais simples.                                               |
 | **Trabalho em Equipe** | Colaborei diretamente com desenvolvedores e designers para garantir alinhamento durante o desenvolvimento.             | Em um novo módulo, alinhei o design com o responsável pela interface e validei com o desenvolvedor para garantir que tudo estivesse coerente antes da implementação. |
 
+## Video
+[Video - Sprint 4](https://github.com/gubasssss/ThothTech/files/13464690/Apresentacao.Sprint.4.pptx)
+
+
+
+
+
+
 
 
 

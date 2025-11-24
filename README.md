@@ -172,15 +172,14 @@ Minha atuação ajudou a garantir que o sistema funcionasse de forma estável, i
 | **Scrum / Metodologias Ágeis** | Planejamento, acompanhamento das entregas e organização das sprints. | Sei fazer com autonomia |
 
 
-## 💬 Soft Skills
+| **Soft Skill**           | **Descrição**                                                                                         | **Exemplo na Prática**                                                                                                                                 |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Comunicação**          | Mantive alinhamento entre a equipe e orientadores, garantindo clareza nas decisões do projeto.        | Durante ajustes solicitados no chatbot, expliquei as mudanças ao time e assegurei que todos entendessem o impacto no desenvolvimento.                  |
+| **Liderança de Produto** | Contribuí na organização do backlog e na priorização das funcionalidades mais importantes.            | Em uma etapa crítica, ajudei a definir quais recursos deveriam ser entregues primeiro para manter o andamento do projeto.                              |
+| **Trabalho em Equipe**   | Colaborei com desenvolvedores e designers para integrar as soluções e manter consistência no sistema. | Ao implementar novas funções no chatbot, alinhei com o designer a interface da resposta e validei com o time técnico para garantir integração correta. |
+| **Pensamento Analítico** | Analisei o comportamento da IA para identificar pontos de melhoria nas interpretações.                | Durante os testes, percebi respostas inconsistentes e sugeri ajustes que tornaram os resultados mais precisos.                                         |
+| **Proatividade**         | Identifiquei melhorias e propus ajustes que aprimoraram a experiência do usuário.                     | Ao revisar o fluxo de consultas, notei que algumas respostas estavam pouco intuitivas e sugeri alterações que tornaram a interação mais clara.         |
 
-| Soft Skill | Aplicação Prática |
-|-----------|--------------------|
-| **Comunicação** | Garanti alinhamento entre a equipe e os orientadores, mantendo clareza nos objetivos do projeto. |
-| **Liderança de Produto** | Contribuí na organização do backlog e na priorização das funcionalidades mais importantes. |
-| **Trabalho em Equipe** | Atuei em conjunto com desenvolvedores e designers para integrar soluções e manter consistência no projeto. |
-| **Pensamento Analítico** | Analisei comportamentos da IA e sugeri melhorias para tornar as respostas mais assertivas. |
-| **Proatividade** | Identifiquei possíveis melhorias e propus ajustes que elevaram a qualidade da experiência do usuário. |
 
 
 
@@ -233,13 +232,13 @@ Essas contribuições ajudaram na construção das funcionalidades de visualiza�
 
 ## 💬 Soft Skills
 
-| Soft Skill | Aplicação Prática |
-|-----------|--------------------|
-| **Trabalho em Equipe** | Atuei junto aos desenvolvedores garantindo alinhamento entre front-end e back-end. |
-| **Comunicação** | Mantive contato constante com o time para esclarecer dúvidas e sincronizar etapas do projeto. |
-| **Organização** | Contribuí para manter o repositório padronizado, com commits claros e código estruturado. |
-| **Resolução de Problemas** | Identifiquei e corrigi falhas na interface, além de otimizar componentes quando necessário. |
-| **Proatividade** | Sugeri melhorias de usabilidade e ajustes que aprimoraram o funcionamento do sistema. |
+| **Soft Skill**             | **Descrição**                                                                  | **Exemplo na Prática**                                                                                                                                     |
+| -------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Trabalho em Equipe**     | Colaborei com o time para garantir integração entre interface, lógica e dados. | Durante o desenvolvimento do dashboard, alinhei com o back-end como os dados seriam enviados e exibidos, garantindo consistência entre as telas e o banco. |
+| **Comunicação**            | Mantive conversas frequentes para esclarecer dúvidas e alinhar entregas.       | Em momentos em que surgiam novas demandas do RH, repassei as alterações para o time e garanti que todos entendessem o impacto no fluxo das telas.          |
+| **Organização**            | Ajudei a manter o código padronizado e o repositório bem estruturado.          | Revisei componentes, padronizei estilos e mantive commits claros para facilitar o trabalho em equipe.                                                      |
+| **Resolução de Problemas** | Identifiquei falhas e busquei soluções práticas para manter o sistema estável. | Ao testar os gráficos, percebi inconsistências na renderização e corrigi a lógica para exibir os indicadores corretamente.                                 |
+| **Proatividade**           | Propus melhorias que ajudaram a tornar o sistema mais intuitivo e funcional.   | Ao revisar a navegação, sugeri ajustes que tornaram o acesso às análises mais fácil e direto para os usuários
 
 
 
@@ -293,15 +292,14 @@ Utilizei GitHub para organização do versionamento e acompanhei todo o progress
 | **Documentação Técnica** | Registro de requisitos, evolução do projeto e relatórios de sprint. | Sei fazer com autonomia |
 
 
-## 💬 Soft Skills
-
-| Soft Skill | Aplicação Prática |
-|-----------|--------------------|
-| **Liderança de Produto** | Como Product Owner, organizei o backlog e direcionei as prioridades do projeto. |
-| **Comunicação** | Mantive diálogo constante com a equipe e com a FAPG para alinhar expectativas e entregas. |
-| **Trabalho em Equipe** | Colaborei com desenvolvedores e com o Scrum Master para garantir fluidez no desenvolvimento. |
-| **Organização** | Estruturei documentos de requisitos, atas e registros que apoiaram o andamento das sprints. |
-| **Pensamento Analítico** | Avaliei funcionalidades e identifiquei melhorias para desempenho e usabilidade do sistema. |
+| **Soft Skill**             | **Descrição**                                                                                                      | **Exemplo na Prática**                                                                                                                                                |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Liderança**              | Atuei como Scrum Master, organizando o fluxo das sprints, facilitando cerimônias e garantindo alinhamento do time. | Durante a sprint de entrega dos dashboards, reorganizei as prioridades e conduzi a daily focando nos bloqueios, ajudando a equipe a manter o ritmo e cumprir o prazo. |
+| **Comunicação**            | Mantive diálogo constante com desenvolvedores, PO e demais stakeholders para garantir clareza nos requisitos.      | Quando surgiram dúvidas sobre os dados exibidos nos relatórios, alinhei as expectativas com o PO e repassei para o time com orientações objetivas.                    |
+| **Organização**            | Estruturei tarefas no Jira, distribuí demandas e acompanhei o andamento das atividades para evitar atrasos.        | Em uma mudança de escopo, atualizei o board, redistribuí tarefas e garanti que a sprint continuasse viável sem comprometer entregas.                                  |
+| **Trabalho em Equipe**     | Colaborei no desenvolvimento front-end e apoiei o time nas integrações entre interface e banco de dados.           | Trabalhei junto ao time para ajustar telas e resolver inconsistências no fluxo de exibição dos editais no dashboard.                                                  |
+| **Resolução de Problemas** | Busquei soluções técnicas e organizacionais diante de bloqueios ou dificuldades do time.                           | Ao identificar incompatibilidades entre componentes e dados retornados do MySQL, revisei a lógica com o time e ajustamos a renderização.                              |
+| **Proatividade**           | Sugeri melhorias no fluxo e nas telas para tornar o sistema mais intuitivo e funcional.                            | Em um dos módulos, propus reorganizar a página de projetos para facilitar a visualização dos responsáveis e prazos.                                                   |
 
 
 
@@ -360,12 +358,10 @@ Além disso, participei da organização e refinamento das telas do aplicativo, 
 **Jira / Scrum** | Organização do fluxo de trabalho e acompanhamento das entregas da equipe | Sei fazer com autonomia
 **Git / GitHub** | Controle de versões, revisão de código e colaboração entre desenvolvedores | Sei fazer com autonomia
 
-## 💬 Soft Skills
-**Soft Skill** | **Aplicação Prática**
---- | ---
-**Trabalho em Equipe** | Contribuí ativamente no desenvolvimento em grupo e apoio nas correções quando necessário.
-**Comunicação** | Mantive alinhamento contínuo com PO e SM sobre prioridades e integração das funcionalidades.
-**Proatividade** | Propus ajustes em fluxos e comportamentos da interface relacionados ao uso do mapa.
-**Organização** | Registrei alterações no repositório e mantive a documentação clara ao longo das sprints.
-**Pensamento Crítico** | Avaliei alternativas de integração com APIs externas buscando melhor desempenho e estabilidade.
-
+| **Soft Skill**         | **Descrição**                                                                                      | **Exemplo na Prática**                                                                                                                                                   |
+| ---------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Trabalho em Equipe** | Colaborei com desenvolvedores, designers e QA para integrar funcionalidades e resolver pendências. | Em uma entrega, auxiliei na correção de bugs de mapeamento e sincronizei testes entre front-end e back-end para garantir que a área delimitada fosse salva corretamente. |
+| **Comunicação**        | Mantive alinhamento contínuo com PO e SM sobre prioridades e requisitos de integração.             | Quando surgiram dúvidas sobre a precisão das coordenadas, expliquei o impacto técnico e operacional ao time e alinhamos ajustes no backlog.                              |
+| **Proatividade**       | Antecipei melhorias no fluxo de navegação e no uso do mapa para facilitar a experiência em campo.  | Propus mudanças no fluxo de criação de áreas (simplificando passos) que reduziram o tempo necessário para registrar uma propriedade durante testes com usuários.         |
+| **Organização**        | Mantive o repositório atualizado e documentei decisões técnicas e alterações de implementação.     | Registrei PRs com descrições claras, atualizei o README das APIs utilizadas e deixei notas de como reproduzir testes de rota.                                            |
+| **Pensamento Crítico** | Avaliei alternativas de integração com APIs externas considerando desempenho e custo.              | Comparei abordagens (ex.: uso de Plus Codes vs geocoding direto) e recomendei a solução que ofereceu melhor precisão no contexto do app.             |

@@ -123,7 +123,9 @@ No back-end, ofereci suporte na integração da estrutura Flask em Python, ajuda
 | **Trabalho em Equipe** | Colaborei diretamente com desenvolvedores e designers para garantir alinhamento durante o desenvolvimento.             | Em um novo módulo, alinhei o design com o responsável pela interface e validei com o desenvolvedor para garantir que tudo estivesse coerente antes da implementação. |
 
 ## 📼 Video
-https://github.com/gubasssss/ThothTech/assets/143751785/11ac8c77-7eb3-400e-8882-152af67f4523
+<video src="https://github.com/gubasssss/ThothTech/assets/143751785/11ac8c77-7eb3-400e-8882-152af67f4523"
+         width="80%">
+  </video>
 
 
 

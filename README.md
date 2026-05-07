@@ -392,3 +392,78 @@ Além disso, participei da organização e refinamento das telas do aplicativo, 
 
 ## 📼 Video
 (Video Não disponivel)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 🎈 Site Scrum Tutor – 2023-2
+
+## 🏰 Empresa Parceira
+O projeto foi realizado em colaboração com a FATEC São José dos Campos – Prof. Jessen Vidal, com a proposta de desenvolver uma solução educacional voltada ao ensino e utilização da metodologia ágil Scrum.
+A instituição participou como cliente e parceira acadêmica, apresentando o desafio de converter o conteúdo teórico sobre metodologias ágeis em uma experiência prática, dinâmica e acessível para os estudantes.
+
+## ⛔ Problema
+Muitas equipes têm dificuldade em aprender e aplicar o Scrum na prática, já que o ensino da metodologia costuma ser extremamente teórico e pouco interativo. Isso faz com que conceitos importantes como papéis, cerimônias e fluxo de trabalho, sejam mal compreendidos, resultando em falhas de comunicação, baixa organização e redução da produtividade.
+
+## 🌟 Solução
+Desenvolvemos uma aplicação web interativa que facilita o aprendizado e a aplicação do Scrum. A plataforma apresenta os conceitos, papéis e cerimônias de forma prática e visual, permitindo que o usuário compreenda o fluxo da metodologia enquanto a utiliza. A solução foi pensada tanto para estudantes quanto para profissionais, oferecendo uma experiência acessível, dinâmica e alinhada às necessidades reais de equipes que desejam adotar ou aprimorar o uso do Scrum.
+
+## 🔗 GITHUB
+[Thoth-TECH - SCRUM Tutor](https://github.com/ThothTech-Fatec/Site-Scrum-Tutor_-Primeiro-Semestre)
+
+## 👨‍💻 Tecnologias Utilizadas
+**• HTML5 – Base para a estruturação das páginas e organização dos elementos do site.**  
+**• CSS3 – Responsável pela aparência visual e pela adaptação do layout em diferentes dispositivos.**  
+**• Bootstrap – Framework utilizado para agilizar o desenvolvimento do layout e aplicar componentes modernos.**  
+**• Python – Linguagem empregada na construção do back-end e no desenvolvimento do formulário avaliativo.**  
+**• Flask – Microframework que possibilitou a criação das rotas e a integração da aplicação de maneira simples e eficiente.**  
+**• Figma – Ferramenta escolhida para o design das telas e criação dos protótipos do projeto.**  
+**• GitHub – Plataforma usada para versionamento, organização e colaboração durante o desenvolvimento.**  
+**• Visual Studio Code – Ambiente de desenvolvimento principal utilizado para programar, testar e organizar o projeto.**
+
+
+## 🧑 Contribuições Pessoais
+Atuei como Product Owner da equipe, sendo responsável por definir e priorizar o backlog, alinhar as necessidades do cliente com o time e garantir que as entregas atendessem aos requisitos e objetivos do projeto. Mantive a visão do produto clara para todos, organizando reuniões de planejamento, refinamento e acompanhamento das funcionalidades.
+Além das atividades centrais do PO, também contribuí em outras áreas do desenvolvimento. Participei da implementação do front-end e do back-end, auxiliando na construção das páginas HTML, na aplicação dos estilos em CSS e Bootstrap e na definição do fluxo das telas criadas no Figma.
+No back-end, ofereci suporte na integração da estrutura Flask em Python, ajudando na organização das rotas e no funcionamento do formulário avaliativo.
+
+## 💪 Hard Skills
+
+| **Habilidade**              | **Descrição**                                         | **Nível de Proficiência**        |
+|-----------------------------|--------------------------------------------------------|----------------------------------|
+| **HTML5 / CSS3**           | Criação de páginas estruturadas e estilizadas          | Sei fazer com autonomia          |
+| **Bootstrap**              | Uso de componentes prontos e responsividade           | Sei fazer com autonomia          |
+| **Python / Flask**         | Desenvolvimento de back-end e rotas dinâmicas         | Sei fazer com autonomia          |
+| **Git / GitHub**           | Versionamento e controle colaborativo de código        | Sei fazer com autonomia          |
+| **Figma**                  | Criação de protótipos e design de interface           | Sei fazer com autonomia              |
+| **Metodologias Ágeis como PO (Scrum)** | Planejamento e Consolidação das sprints            | Sei fazer com apoio          |
+
+| **Soft Skill**         | **Descrição**                                                                                                          | **Exemplo na Prática**                                                                                                                                               |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Liderança**          | Atuei como Product Owner, direcionando o time e garantindo clareza nas entregas.                                       | Em uma sprint com prazos apertados, organizei as prioridades e ajudei a equipe a manter o foco no que realmente precisava ser entregue.                              |
+| **Comunicação**        | Mantive uma comunicação clara durante reuniões e alinhamentos para evitar interpretações diferentes.                   | Quando a empresa parceira solicitou ajustes, expliquei as mudanças para a equipe e garanti que todos entendessem o que precisava ser feito.                          |
+| **Organização**        | Gerenciei o backlog, revisei tarefas e mantive as sprints bem estruturadas.                                            | Após uma mudança de escopo, reorganizei o backlog e redistribuí as tarefas para que o planejamento da sprint continuasse viável.                                     |
+| **Proatividade**       | Sugeri melhorias sempre que identifiquei oportunidades de simplificar processos ou aprimorar a experiência do usuário. | Ao revisar uma nova funcionalidade, percebi um fluxo pouco intuitivo e sugeri um ajuste que tornou o uso mais simples.                                               |
+| **Trabalho em Equipe** | Colaborei diretamente com desenvolvedores e designers para garantir alinhamento durante o desenvolvimento.             | Em um novo módulo, alinhei o design com o responsável pela interface e validei com o desenvolvedor para garantir que tudo estivesse coerente antes da implementação. |
+
+## 📼 Video
+<p align="center">
+  <a href="https://github.com/gubasssss/ThothTech/assets/143751785/11ac8c77-7eb3-400e-8882-152af67f4523">
+    <img src="https://img.shields.io/badge/▶%20Assistir%20Vídeo-blue?style=for-the-badge" width="300">
+  </a>
+</p>
+

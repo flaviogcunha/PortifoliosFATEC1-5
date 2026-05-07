@@ -254,8 +254,11 @@ Essas contribuições ajudaram na construção das funcionalidades de visualiza�
 | **Proatividade**           | Propus melhorias que ajudaram a tornar o sistema mais intuitivo e funcional.   | Ao revisar a navegação, sugeri ajustes que tornaram o acesso às análises mais fácil e direto para os usuários
 
 ## 📼 Video
-https://github.com/user-attachments/assets/823e928f-226f-40f2-b061-4bcabf4d07cc
-
+<p align="center">
+  <a href="[https://github.com/gubasssss/ThothTech/assets/143751785/11ac8c77-7eb3-400e-8882-152af67f4523](https://github.com/user-attachments/assets/823e928f-226f-40f2-b061-4bcabf4d07cc)">
+    <img src="https://img.shields.io/badge/▶%20Assistir%20Vídeo-blue?style=for-the-badge" width="300">
+  </a>
+</p>
 
 
 

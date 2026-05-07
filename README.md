@@ -194,7 +194,11 @@ Minha atuação ajudou a garantir que o sistema funcionasse de forma estável, i
 | **Proatividade**         | Identifiquei melhorias e propus ajustes que aprimoraram a experiência do usuário.                     | Ao revisar o fluxo de consultas, notei que algumas respostas estavam pouco intuitivas e sugeri alterações que tornaram a interação mais clara.         |
 
 ## 📼 Video
-<video src="https://github.com/HenryBRG/ThothTech-2/assets/143751785/9fb2ba7d-1170-4509-a09d-1c191025dab9" width="800"></video>
+<p align="center">
+  <a href="https://github.com/HenryBRG/ThothTech-2/assets/143751785/9fb2ba7d-1170-4509-a09d-1c191025dab9">
+    <img src="https://img.shields.io/badge/▶%20Assistir%20Vídeo-blue?style=for-the-badge" width="300">
+  </a>
+</p>
 
 
 

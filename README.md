@@ -323,8 +323,6 @@ Utilizei GitHub para organização do versionamento e acompanhei todo o progress
 
 
 ## 📼 Video
-https://drive.google.com/file/d/1E_LqwBUEnuI4WbZVlxlIdiEhuw84RwW_/view?usp=sharing
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1E_LqwBUEnuI4WbZVlxlIdiEhuw84RwW_/view?usp=sharing">
     <img src="https://img.shields.io/badge/▶%20Assistir%20Vídeo-blue?style=for-the-badge" width="300">

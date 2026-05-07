@@ -259,7 +259,7 @@ Essas contribuições ajudaram na construção das funcionalidades de visualiza�
 
 ## 📼 Video
 <p align="center">
-  <a href="https://github.com/HenryBRG/ThothTech-2/assets/143751785/9fb2ba7d-1170-4509-a09d-1c191025dab9">
+  <a href="https://github.com/user-attachments/assets/823e928f-226f-40f2-b061-4bcabf4d07cc">
     <img src="https://img.shields.io/badge/▶%20Assistir%20Vídeo-blue?style=for-the-badge" width="300">
   </a>
 </p>

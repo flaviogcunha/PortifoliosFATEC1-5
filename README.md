@@ -7,7 +7,7 @@
 
   Tenho grande interesse nas áreas de redes de computadores, segurança da informação e hacking, Busco constantemente aprimorar-me por meio de laboratórios práticos, cursos e certificações relevantes, e aplico esse conhecimento para desenvolver projetos cada vez melhores! Também tenho afinidade por análise de dados: tratamento, visualização e extração de insights para apoiar decisões.
 # 📸 Foto
-<img src="https://github.com/user-attachments/assets/f46c0bd9-f139-4791-ae23-de35070249dc" width="800" height="1020">
+<img src="https://github.com/user-attachments/assets/f46c0bd9-f139-4791-ae23-de35070249dc" width="600" height="820">
 
 
 

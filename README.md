@@ -124,7 +124,7 @@ No back-end, ofereci suporte na integração da estrutura Flask em Python, ajuda
 
 ## 📼 Video
 <p align="center">
-  <video width="1000" controls>
+  <video width="900" controls>
     <source src="https://github.com/gubasssss/ThothTech/assets/143751785/11ac8c77-7eb3-400e-8882-152af67f4523" type="video/mp4">
   </video>
 </p>

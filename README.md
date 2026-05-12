@@ -336,7 +336,7 @@ Utilizei GitHub para organização do versionamento e acompanhei todo o progress
 
 
 ---
-# 📱 GeoRah – 2025-2
+# 📱 GeoRah – 2026-1
 
 ## 🏰 Empresa Parceira
 O projeto GeoRah foi desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos – Prof. Jessen Vidal, em parceria com a Visiona Tecnologia Espacial, empresa especializada em integração de sistemas espaciais e soluções de sensoriamento remoto.

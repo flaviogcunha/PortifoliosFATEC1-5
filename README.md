@@ -410,55 +410,60 @@ Além disso, participei da organização e refinamento das telas do aplicativo, 
 
 
 
-# 🎈 Site Scrum Tutor – 2023-2
+# 🧿 RaVision – 2026-1
 
 ## 🏰 Empresa Parceira
-O projeto foi realizado em colaboração com a FATEC São José dos Campos – Prof. Jessen Vidal, com a proposta de desenvolver uma solução educacional voltada ao ensino e utilização da metodologia ágil Scrum.
-A instituição participou como cliente e parceira acadêmica, apresentando o desafio de converter o conteúdo teórico sobre metodologias ágeis em uma experiência prática, dinâmica e acessível para os estudantes.
+O projeto Ra Vision foi realizado em colaboração com a empresa Dom Rock, com a proposta de desenvolver uma aplicação web voltada ao gerenciamento inteligente de regras de negócio utilizando suporte de IA Generativa
+A empresa participou como parceira acadêmica, apresentando o desafio de organizar regras de negócio altamente dinâmicas que, devido a mudanças constantes em campanhas e estratégias, muitas vezes não são documentadas formalmente e dependem do conhecimento tácito dos colaboradores
+A colaboração visou criar uma solução que promova maior transparência e rastreabilidade, permitindo que a IA explique decisões complexas e apoie de forma prática a tomada de decisão empresarial
+
 
 ## ⛔ Problema
-Muitas equipes têm dificuldade em aprender e aplicar o Scrum na prática, já que o ensino da metodologia costuma ser extremamente teórico e pouco interativo. Isso faz com que conceitos importantes como papéis, cerimônias e fluxo de trabalho, sejam mal compreendidos, resultando em falhas de comunicação, baixa organização e redução da produtividade.
+Empresas enfrentam grandes dificuldades para gerenciar regras de negócio dinâmicas que mudam constantemente devido a campanhas, mudanças estratégicas e acordos comerciais
+Como muitas dessas regras não possuem documentação formal e dependem exclusivamente do conhecimento tácito dos colaboradores, o resultado são conflitos operacionais, falta de rastreabilidade e inconsistências nos processos empresariais
+Essa falta de clareza impede que gestores e auditores compreendam com precisão a lógica por trás de decisões e cálculos complexos, o que prejudica a transparência e a eficiência organizacional
+
 
 ## 🌟 Solução
-Desenvolvemos uma aplicação web interativa que facilita o aprendizado e a aplicação do Scrum. A plataforma apresenta os conceitos, papéis e cerimônias de forma prática e visual, permitindo que o usuário compreenda o fluxo da metodologia enquanto a utiliza. A solução foi pensada tanto para estudantes quanto para profissionais, oferecendo uma experiência acessível, dinâmica e alinhada às necessidades reais de equipes que desejam adotar ou aprimorar o uso do Scrum.
+Desenvolvemos uma aplicação web voltada ao gerenciamento inteligente de regras de negócio, que utiliza o suporte de IA Generativa para promover maior rastreabilidade, transparência e redução de inconsistências operacionais
+A plataforma permite o cadastro, versionamento e simulação de regras empresariais, realizando o cruzamento estruturado de bases de dados de RH, Vendas e Comissionamento para o cálculo automatizado de comissões e bônus sazonais
+O diferencial da solução é a interação por meio de um assistente virtual via chat (LLM), que explica a lógica matemática e justifica detalhadamente os cálculos de cada funcionário, facilitando a compreensão de regras complexas por analistas e gestores.
 
 ## 🔗 GITHUB
-[Thoth-TECH - SCRUM Tutor](https://github.com/ThothTech-Fatec/Site-Scrum-Tutor_-Primeiro-Semestre)
+[Thoth-TECH - RaVision](https://github.com/ThothTech-Fatec/RaVision)
 
 ## 👨‍💻 Tecnologias Utilizadas
-**• HTML5 – Base para a estruturação das páginas e organização dos elementos do site.**  
-**• CSS3 – Responsável pela aparência visual e pela adaptação do layout em diferentes dispositivos.**  
-**• Bootstrap – Framework utilizado para agilizar o desenvolvimento do layout e aplicar componentes modernos.**  
-**• Python – Linguagem empregada na construção do back-end e no desenvolvimento do formulário avaliativo.**  
-**• Flask – Microframework que possibilitou a criação das rotas e a integração da aplicação de maneira simples e eficiente.**  
-**• Figma – Ferramenta escolhida para o design das telas e criação dos protótipos do projeto.**  
+**• IA Generativa (LLM) – Utilizada como motor principal para o assistente virtual capaz de explicar a lógica de cálculos e regras de negócio.**  
+**• Python – Linguagem empregada na construção do motor de processamento de regras complexas e na integração com modelos de linguagem.**  
+**• Java – Linguagem robusta empregada no desenvolvimento do back-end e do motor de processamento, responsável por realizar os cálculos complexos de comissões, bônus e exceções trabalhistas.**  
+**• Vue.js – Framework progressivo utilizado para a construção da interface web, garantindo uma experiência dinâmica e interativa para a gestão de planilhas e o uso do chatbot.**     
 **• GitHub – Plataforma usada para versionamento, organização e colaboração durante o desenvolvimento.**  
-**• Visual Studio Code – Ambiente de desenvolvimento principal utilizado para programar, testar e organizar o projeto.**
+**• SQL – Linguagem utilizada para a estruturação, cruzamento e consulta das bases de dados mensais de RH, Vendas e Comissionamento.**
 
 
 ## 🧑 Contribuições Pessoais
-Atuei como Product Owner da equipe, sendo responsável por definir e priorizar o backlog, alinhar as necessidades do cliente com o time e garantir que as entregas atendessem aos requisitos e objetivos do projeto. Mantive a visão do produto clara para todos, organizando reuniões de planejamento, refinamento e acompanhamento das funcionalidades.
-Além das atividades centrais do PO, também contribuí em outras áreas do desenvolvimento. Participei da implementação do front-end e do back-end, auxiliando na construção das páginas HTML, na aplicação dos estilos em CSS e Bootstrap e na definição do fluxo das telas criadas no Figma.
-No back-end, ofereci suporte na integração da estrutura Flask em Python, ajudando na organização das rotas e no funcionamento do formulário avaliativo.
+No projeto Ra Vision, atuei como Scrum Master, assumindo a responsabilidade pela organização e gestão do fluxo de trabalho no Jira
+Minha atuação focou na aplicação das cerimônias ágeis e na remoção de impedimentos para garantir o cumprimento das entregas das sprints dentro do cronograma estabelecido com a Dom Rock
+Na parte técnica, contribuí diretamente na integração da Inteligência Artificial Generativa ao sistema, permitindo que o motor de regras fornecesse explicações automáticas sobre os cálculos de comissão
+Também desenvolvi a interface e a lógica do chat, criando a funcionalidade para que as diferentes pessoas pudessem conversar e escrever diretamente para a IA, obtendo esclarecimentos imediatos sobre os dados
+Além disso, participei da implementação front-end das telas de inserção das planilhas de RH, Vendas e Comissionamento enviadas pela empresa, bem como do desenvolvimento dos dashboards gerenciais para a visualização clara de anomalias e indicadores de performance
 
+Hard Skills
 ## 💪 Hard Skills
 
 | **Habilidade**              | **Descrição**                                         | **Nível de Proficiência**        |
 |-----------------------------|--------------------------------------------------------|----------------------------------|
-| **HTML5 / CSS3**           | Criação de páginas estruturadas e estilizadas          | Sei fazer com autonomia          |
-| **Bootstrap**              | Uso de componentes prontos e responsividade           | Sei fazer com autonomia          |
-| **Python / Flask**         | Desenvolvimento de back-end e rotas dinâmicas         | Sei fazer com autonomia          |
-| **Git / GitHub**           | Versionamento e controle colaborativo de código        | Sei fazer com autonomia          |
-| **Figma**                  | Criação de protótipos e design de interface           | Sei fazer com autonomia              |
-| **Metodologias Ágeis como PO (Scrum)** | Planejamento e Consolidação das sprints            | Sei fazer com apoio          |
+| **Jira**           | 	Organização do fluxo de trabalho, gestão de cerimônias e controle de sprints | Sei fazer com autonomia          |
+| **IA Generativa**              | 	Integração de modelos de linguagem para explicação de regras de negócio          | Sei fazer com apoio         |
+| **Desenvolvimento Front-end**         | Criação de interfaces para upload de planilhas, chat e dashboards         | Sei fazer com autonomia          |
+| **Git / GitHub**           | Controle de versão e colaboração técnica entre os membros do time.       | Sei fazer com autonomia          |
+
 
 | **Soft Skill**         | **Descrição**                                                                                                          | **Exemplo na Prática**                                                                                                                                               |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Liderança**          | Atuei como Product Owner, direcionando o time e garantindo clareza nas entregas.                                       | Em uma sprint com prazos apertados, organizei as prioridades e ajudei a equipe a manter o foco no que realmente precisava ser entregue.                              |
-| **Comunicação**        | Mantive uma comunicação clara durante reuniões e alinhamentos para evitar interpretações diferentes.                   | Quando a empresa parceira solicitou ajustes, expliquei as mudanças para a equipe e garanti que todos entendessem o que precisava ser feito.                          |
-| **Organização**        | Gerenciei o backlog, revisei tarefas e mantive as sprints bem estruturadas.                                            | Após uma mudança de escopo, reorganizei o backlog e redistribuí as tarefas para que o planejamento da sprint continuasse viável.                                     |
-| **Proatividade**       | Sugeri melhorias sempre que identifiquei oportunidades de simplificar processos ou aprimorar a experiência do usuário. | Ao revisar uma nova funcionalidade, percebi um fluxo pouco intuitivo e sugeri um ajuste que tornou o uso mais simples.                                               |
-| **Trabalho em Equipe** | Colaborei diretamente com desenvolvedores e designers para garantir alinhamento durante o desenvolvimento.             | Em um novo módulo, alinhei o design com o responsável pela interface e validei com o desenvolvedor para garantir que tudo estivesse coerente antes da implementação. |
+| **Resolução de Problemas**          | Implementação da lógica para o recebimento e tratamento das planilhas.                                       | Atuei na construção da funcionalidade de importação de dados para garantir que as informações da empresa fossem processadas sem erros |
+| **Organização**        | Gestão das sprints no Jira, garantindo a fluidez do desenvolvimento                                            | Mantive o fluxo de trabalho visível e as cerimônias em dia para evitar atrasos nas entregas da Dom Rock.                                     |
+| **Trabalho em Equipe** | Colaboração técnica para integrar o chat às funcionalidades de front-end.             | Trabalhei em conjunto com os desenvolvedores de front-end para garantir que a interface de escrita do chat funcionasse corretamente. |
 
 ## 📼 Video
 <p align="center">

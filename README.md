@@ -366,7 +366,6 @@ Desenvolvemos o GeoRah, um aplicativo mobile multiplataforma projetado para faci
 
 ## 🧑 Contribuições Pessoais
 Atuei principalmente na integração das APIs utilizadas pelo aplicativo, trabalhando diretamente com a Google Maps API e o Plus Code para viabilizar a identificação de coordenadas, delimitação de áreas e exibição precisa das propriedades no mapa. Minha participação envolveu a configuração dos serviços externos, tratamento das respostas e integração dos dados com o fluxo interno do aplicativo.
-Também trabalhei na conexão do app com o back-end, auxiliando na comunicação entre o React Native e a API, garantindo que informações de propriedades, rotas e alertas fossem enviadas e recebidas corretamente. Contribuí no consumo das rotas, padronização das requisições e integração com o banco de dados relacional utilizado no projeto.
 Além disso, participei da organização e refinamento das telas do aplicativo, atuando junto ao time na transição dos protótipos criados no Figma para o ambiente de desenvolvimento, alinhando comportamentos, navegação e estrutura visual para manter coerência entre design e implementação.
 
 ## 🧩 Hard Skills

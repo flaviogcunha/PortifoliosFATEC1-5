@@ -466,9 +466,5 @@ Hard Skills
 | **Trabalho em Equipe** | Colaboração técnica para integrar o chat às funcionalidades de front-end.             | Trabalhei em conjunto com os desenvolvedores de front-end para garantir que a interface de escrita do chat funcionasse corretamente. |
 
 ## 📼 Video
-<p align="center">
-  <a href="https://github.com/gubasssss/ThothTech/assets/143751785/11ac8c77-7eb3-400e-8882-152af67f4523">
-    <img src="https://img.shields.io/badge/▶%20Assistir%20Vídeo-blue?style=for-the-badge" width="300">
-  </a>
-</p>
+(Não Disponivel)
 

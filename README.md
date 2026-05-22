@@ -169,9 +169,7 @@ Além disso, o sistema foi estruturado para ser flexível, suportando diferentes
 
 
 ## 🧑 Contribuições Pessoais
-Como membro da equipe de desenvolvimento, atuei principalmente na implementação das funcionalidades do back-end em Java e na integração do sistema com o banco de dados MySQL. Trabalhei na conexão entre o chatbot e o mecanismo de processamento em linguagem natural utilizando LangChain4j, garantindo que as perguntas enviadas pelo usuário fossem interpretadas corretamente.
-Também participei dos testes com os modelos executados localmente por meio do Ollama e LM Studio, validando o comportamento da IA e ajustando a comunicação entre as camadas do sistema. Durante o desenvolvimento, usei GitHub para versionamento e colaboração com o time, contribuindo para manter o código organizado e padronizado.
-Minha atuação ajudou a garantir que o sistema funcionasse de forma estável, interpretando perguntas e retornando dados reais do banco de maneira simples e eficiente.
+Como membro da equipe de desenvolvimento, atuei principalmente na implementação das funcionalidades do back-end em Java e na integração do sistema com o banco de dados MySQL. Também participei dos testes e validações do sistema, auxiliando na comunicação entre as camadas da aplicação e garantindo o funcionamento estável das funcionalidades. Durante o desenvolvimento, utilizei GitHub para versionamento e colaboração com a equipe, contribuindo para manter o código organizado e padronizado.
 
 ## 🧩 Hard Skills
 

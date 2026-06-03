@@ -9,7 +9,7 @@
 # 📸 Foto
 
 <img width="1100" height="900" alt="Image" src="https://github.com/user-attachments/assets/a17ccf08-8b5a-43e5-8c68-ce5efac6dd64" />
-<img src="https://github.com/user-attachments/assets/f46c0bd9-f139-4791-ae23-de35070249dc" width="600" height="820">
+
 
 
 

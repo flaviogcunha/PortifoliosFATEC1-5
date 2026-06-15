@@ -465,5 +465,9 @@ Hard Skills
 | **Trabalho em Equipe** | Colaboração técnica para integrar o chat às funcionalidades de front-end.             | Trabalhei em conjunto com os desenvolvedores de front-end para garantir que a interface de escrita do chat funcionasse corretamente. |
 
 ## 📼 Video
-(Não Disponivel)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1E_LqwBUEnuI4WbZVlxlIdiEhuw84RwW_/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶%20Assistir%20Vídeo-blue?style=for-the-badge" width="300">
+  </a>
+</p>
 

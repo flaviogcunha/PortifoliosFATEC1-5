@@ -390,7 +390,11 @@ Além disso, participei da organização e refinamento das telas do aplicativo, 
 
 
 ## 📼 Video
-(Video Não disponivel)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1o3jiolrzvsCrqOqTkcVKTkgQKASfVOcU/view">
+    <img src="https://img.shields.io/badge/▶%20Assistir%20Vídeo-blue?style=for-the-badge" width="300">
+  </a>
+</p>
 
 ---
 
